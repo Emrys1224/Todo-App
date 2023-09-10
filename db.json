@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "title": "Learn HTML",
+      "text": "I want to know HTML",
+      "state": "done",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Learn CSS",
+      "text": "I want to be a god of CSS",
+      "state": "done"
+    },
+    {
+      "title": "Learn JavaScript",
+      "text": "I want to master my JS knowledge",
+      "state": "in progress",
+      "id": 3
+    },
+    {
+      "title": "Learn React",
+      "text": "I would like to be really good in React",
+      "state": "in progress",
+      "id": 4
+    },
+    {
+      "title": "Become a Web Developer",
+      "text": "I really want to become a Web Developer in the end",
+      "state": "in progress",
+      "id": 5
+    },
+    {
+      "title": "Asd asdf asdf",
+      "text": " sadfs adf sadfasd asdfsd",
+      "state": "new",
+      "id": 6
+    },
+    {
+      "title": "dfg sdfg",
+      "text": " dfgsdf gsdfg sdfg",
+      "state": "new",
+      "id": 7
+    }
+  ]
+}

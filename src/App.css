@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Signika+Negative:wght@400;600;700&display=swap");
+
+.App {
+  max-width: 1000px;
+  margin: auto;
+  font-family: "Signika Negative", Arial, Helvetica, sans-serif;
+  color: rgb(50 80 110);
+}
+
+h1 {
+  text-align: center;
+}
+
+.header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.plus {
+  position: fixed;
+  right: 45px;
+  bottom: 35px;
+}
